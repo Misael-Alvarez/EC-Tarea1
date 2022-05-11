@@ -1,1 +1,1 @@
-# EC-Tarea1
+# Estadística Computacional
